@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/src/java/filters/AuthFilter.java</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/web/crud/flights/Create.xhtml</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/src/conf/persistence.xml</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/web/template.xhtml</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/web/crud/airlines/List.xhtml</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/src/java/Bundle.properties</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/web/auth.xhtml</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/src/java/entitys/Flights.java</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/src/java/entitys/Airports.java</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/web/WEB-INF/web.xml</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/web/findflight.xhtml</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/web/crud/airlines/Create.xhtml</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/web/crud/airlines/Edit.xhtml</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/web/crud/airlines/View.xhtml</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/web/WEB-INF/glassfish-web.xml</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/src/java/entitys/Airlines.java</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/web/userindex.xhtml</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/web/WEB-INF/faces-config.xml</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/web/WEB-INF/glassfish-resources.xml</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/src/java/sessions/AbstractFacade.java</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/web/index.xhtml</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/web/crud/airports/Create.xhtml</file>
+            <file>file:/D:/БГУИР/4%20курс/СТПИС/АЭРОПОРТ/Airport/WebApplication/web/crud/users/Create.xhtml</file>
+        </group>
+    </open-files>
+</project-private>
