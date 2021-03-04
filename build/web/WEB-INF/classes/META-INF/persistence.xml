@@ -2,14 +2,14 @@
 <persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
   <persistence-unit name="WebApplicationPU" transaction-type="JTA">
     <jta-data-source>java:app/MainDBPool</jta-data-source>
-    <class>entitys.Prices</class>
-    <class>entitys.Tickets</class>
-    <class>entitys.Flights</class>
-    <class>entitys.Passengers</class>
-    <class>entitys.Airlines</class>
-    <class>entitys.Airports</class>
-    <class>entitys.Pilots</class>
-    <class>entitys.Users</class>
+    <class>entitysLishtvan.Flights</class>
+    <class>entitysLishtvan.Passengers</class>
+    <class>entitysLishtvan.Airlines</class>
+    <class>entitysLishtvan.Airports</class>
+    <class>entitysLishtvan.Prices</class>
+    <class>entitysLishtvan.Users</class>
+    <class>entitysLishtvan.Pilots</class>
+    <class>entitysLishtvan.Tickets</class>
     <exclude-unlisted-classes>true</exclude-unlisted-classes>
     <validation-mode>NONE</validation-mode>
     <properties>

@@ -35,7 +35,7 @@ var isToBig = true;
 
 
 function hideFlights() {
-    if(location.pathname === "/faces/findflight.xhtml"){
+    if(location.pathname === "/WebApplication/faces/findflight.xhtml"){
         var from = $(".cityFrom").text().trim(), to = $(".cityTo").text().trim();
         var rows = $("tbody").eq(0).children("tr");
         for (var i = 0; i < rows.size(); i++) {
@@ -77,7 +77,7 @@ function addNotFoundMessage() {
 }
 
 function authAnimate() {
-    if(location.pathname === "/faces/auth.xhtml"){
+    if(location.pathname === "/WebApplication/faces/auth.xhtml"){
         var auth = $("#onAuth"), registry = $("#onRegistry");
         auth.click(onAuth);
         registry.click(onRegistry);
@@ -211,7 +211,7 @@ function addPasswordInput() {
 
 
 function disableLinks() {
-    if(location.pathname === "/faces/userindex.xhtml"){
+    if(location.pathname === "/WebApplication/faces/userindex.xhtml"){
         var rows = $("tbody").eq(1).children("tr");
         for (var i = 0; i < rows.size(); i++) {
             if(rows.eq(i).children("td").eq(5).text() == "INACTIVE"){
